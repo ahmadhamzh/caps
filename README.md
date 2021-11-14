@@ -60,7 +60,10 @@ events.on('delete', (data) => {
 ----
 ## Links : 
 
-Pull 
+Pull Requist Link : https://github.com/ahmadhamzh/caps/pull/2 
 
+action tab Link : https://github.com/ahmadhamzh/caps/actions 
+
+image for console Link : https://github.com/ahmadhamzh/caps/blob/main/lab%2011.png
 
 
