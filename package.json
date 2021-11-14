@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.3.1",
+    "supertest": "^6.1.6"
+  },
+  "name": "caps",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhamzh/caps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadhamzh/caps/issues"
+  },
+  "homepage": "https://github.com/ahmadhamzh/caps#readme"
+}
