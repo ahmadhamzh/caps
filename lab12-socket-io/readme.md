@@ -53,8 +53,6 @@ We will need to:
 ----
 ## Links : 
 
-Pull Requist Link : 
+Pull Requist Link : https://github.com/ahmadhamzh/caps/pull/4  
 
-action tab Link :  
-
-image for console Link : 
+image for console Link : https://github.com/ahmadhamzh/caps/blob/main/lab12-socket-io/caps-messageQueue.png
